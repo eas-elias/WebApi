@@ -1,4 +1,3 @@
-c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Debug\WebApi_RestFull.csprojResolveAssemblyReference.cache
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\ApplicationInsights.config
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\roslyn\csc.exe
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\roslyn\csc.exe.config
@@ -81,3 +80,7 @@ c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_Rest
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\pt-br\System.Web.WebPages.Razor.resources.dll
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Debug\WebApi_RestFull.dll
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Debug\WebApi_RestFull.pdb
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.SqlServer.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.xml
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.SqlServer.xml

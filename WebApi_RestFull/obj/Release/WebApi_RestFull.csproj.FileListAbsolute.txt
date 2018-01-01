@@ -81,3 +81,7 @@ c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_Rest
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Release\WebApi_RestFull.dll
 c:\users\elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Release\WebApi_RestFull.pdb
 C:\Users\Elias\documents\visual studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\obj\Release\WebApi_RestFull.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.SqlServer.dll
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.xml
+C:\Users\Elias\Documents\Visual Studio 2017\Projects\WebApi_RestFull\WebApi_RestFull\bin\EntityFramework.SqlServer.xml
